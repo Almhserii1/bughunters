@@ -2,7 +2,7 @@
 
 Last updated: 2025-01-09
 
-For additional information: https://bughunters.google.com/open-source-security/patch-rewards
+For additional information: https://bughunters.google.com/close-source-security/patch-rewards
 
 Currently, the projects in-scope are as follows:
 
